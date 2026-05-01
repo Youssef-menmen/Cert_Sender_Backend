@@ -1,0 +1,17 @@
+com\certsender\entity\EmailLog$EmailLogBuilder.class
+com\certsender\dto\EmailDto$LogResponse$LogResponseBuilder.class
+com\certsender\CertSenderApplication.class
+com\certsender\dto\EmailDto$DashboardStats.class
+com\certsender\dto\EmailDto$LogResponse.class
+com\certsender\service\EmailService.class
+com\certsender\entity\EmailLog.class
+com\certsender\dto\EmailDto$DashboardStats$DashboardStatsBuilder.class
+com\certsender\dto\EmailDto$SendResult.class
+com\certsender\dto\EmailDto.class
+com\certsender\entity\EmailLog$EmailStatus.class
+com\certsender\controller\EmailController.class
+com\certsender\dto\EmailDto$SendSummary$SendSummaryBuilder.class
+com\certsender\dto\EmailDto$SendResult$SendResultBuilder.class
+com\certsender\repository\EmailLogRepository.class
+com\certsender\config\CorsConfig.class
+com\certsender\dto\EmailDto$SendSummary.class
