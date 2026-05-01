@@ -1,7 +1,6 @@
 services:
   - type: web
     name: cert-sender-backend
-    env: docker
     buildCommand: ./mvnw clean package
     startCommand: java -jar target/*.jar
     envVars:
